@@ -1,3 +1,5 @@
+# Fitadiavana asa any Alemana
+
 𝗩𝗮𝗹𝗶𝗻-𝗸𝗮𝗳𝗮𝘁𝗿𝗮: anio aho mba hanoratra momban'ny fitadiavana asa any #Alemana arak'izay haiko. Lavalava ihany izy ity fa manantena aho hamaky hatramin'ny farany ianao, ary mino koa aho fa mety hanampy anao izay zaraina etsy ambany. 
 "𝘚𝘭𝘵, 𝘬𝘳𝘬𝘳 𝘮𝘢 𝘷𝘢𝘭𝘢𝘺? 
 𝘔𝘣𝘢 𝘰𝘮𝘦𝘰 𝘳𝘢𝘩𝘢 𝘮𝘢𝘯𝘫𝘢𝘳𝘺 𝘢𝘯𝘺 𝘮𝘢 𝘢𝘪.
