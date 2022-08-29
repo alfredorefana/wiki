@@ -1,5 +1,4 @@
-Moving WhatsApp to a new phone: Transferring backups & restoring
-
+# Moving WhatsApp to a new phone: Transferring backups & restoring
 
 The easiest way to do this is: Google Drive backup and restore
 Note:
