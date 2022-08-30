@@ -3,7 +3,7 @@
 THis is how I prepared to pass the CKA exam.
 
 
-## Tips and useful resources for reparation
+## My Comprehensive List of Study Resources
 
 - [Introduction to Containers and Docker](https://acloudguru.com/course/introduction-to-containers-and-docker)
 

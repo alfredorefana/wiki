@@ -4,11 +4,13 @@ I passed the AWS Cloud certified Particioner exam in January 2022. And I was thi
 
 ## Exam overview
 
+One important thing to mention is that this certification demonstrates a foundational understanding of Cloud principles, AWS Services, and other aspects of the Infrastructure as a Service platform that AWS offers, including billing, pricing, and security. 
+
 **Level:** Foundational
 
 **Length:** 90 minutes to complete the exam
 
-**Cost:** 100 USD. Visit Exam pricing for additional cost information.
+**Cost:** 100 USD. Visit Exam pricing for additional cost information in your region.
 
 **Format:** 65 questions; either multiple choice or multiple response
 
@@ -17,7 +19,17 @@ I passed the AWS Cloud certified Particioner exam in January 2022. And I was thi
 Updated details about the certification [here](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 
-## Tips and useful resources for reparation
+## Tips for reparation
+
+- Get The know-how Of The Subject Areas (i.e. the scope of the certification)
+- Read at least twice the AWS Certified Cloud Practitioner Exam Guide
+- Go through The AWS Whitepapers
+- Take Practice Exams as much as you can
+- DO NOT blindly remember by heart the services, try to understand them for different use cases
+
+
+
+## My Comprehensive List of Study Resources
 
 The following are the resources I used during  preparation for the exam. 
 
