@@ -84,5 +84,5 @@ English version can be found [here](https://github.com/alfredorefana/wiki/blob/m
 
  
 
-Полезные ссылки [здесь](https://github.com/alfredorefana/wiki/blob/main/work/EU-Blue-Card.md)
+Полезные ссылки [здесь](https://github.com/alfredorefana/wiki/blob/main/work/EU-Blue-Card.md#useful-online-resources-for-details)
  
