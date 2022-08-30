@@ -22,7 +22,7 @@ Updated details about the certification [here](https://aws.amazon.com/certificat
 ## Tips for reparation
 
 - Get The know-how Of The Subject Areas (i.e. the scope of the certification)
-- Read at least twice the AWS Certified Cloud Practitioner Exam Guide
+- Read at least twice the AWS Certified Cloud Practitioner [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 - Go through The AWS Whitepapers
 - Take Practice Exams as much as you can
 - DO NOT blindly remember by heart the services, try to understand them for different use cases
