@@ -6,15 +6,20 @@ My wikipedia page
 
 Just sharing some life experience and advices here
 
-- [Советы для жизни](https://github.com/alfredorefana/wiki/blob/main/general/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8.md)
+- [Советы для жизни](https://github.com/alfredorefana/wiki/blob/main/general/Life-advices)
 
 - [Search engine for science papers, books](https://github.com/alfredorefana/wiki/blob/main/general/search-engine-sites-for-books-and-science-papers.md)
 
 - [Moving WhatsApp to a new phone: Transferring backups & restoring](https://github.com/alfredorefana/wiki/blob/main/general/search-engine-sites-for-books-and-science-papers.md)
 
+
+
 # Learning
 
 - [AWS Certified Cloud Practitioner](https://github.com/alfredorefana/wiki/blob/main/learning/aws-cloud-parctitioner.md)
+
+- [Certified Kubernetes Administrator (CKA)](https://github.com/alfredorefana/wiki/blob/main/learning/cka--k8s-certified-admin.md)
+
 
 
 # Work

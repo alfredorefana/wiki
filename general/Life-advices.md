@@ -25,4 +25,3 @@ So that’s it. I really wished someone has told me the listed advice five years
 
 What kind of advice would you give to the younger version of yourself?  Please feel free to comment below, it would be a pleasure to read. 
 
-#studentexperience #career

@@ -3,7 +3,8 @@
 This article discusses EU Blue Card (in German: Blaue Karte EU) from my personal experience. After reading the article, you will understand [well, I hope...] main requirements to be eligible for this type of residence permit in Germany, the application process and the benefits of holding an EU Blue Card.
 
 ##  Russian version
-Русская версия можно читать [здесь](https://github.com/alfredorefana/wiki/blob/main/work/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%8F-%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D0%95%D0%A1--(EU-Blue-Card).md).
+Русская версия можно читать [здесь](https://github.com/alfredorefana/wiki/blob/main/work/EU-Blue-Card-Russian-Version.md).
+
 
 # EU Blue Card
 The EU Blue Card for Germany is a work and residence permit, issued to highly skilled individuals, allowing them to work in professions where there is a shortage or which have future prospects. It allows the holder to live and work in Germany for up to four years at first and extend the stay if they still meet the requirements. 
