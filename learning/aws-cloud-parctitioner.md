@@ -40,6 +40,7 @@ The following are the resources I used during  preparation for the exam.
 [AWS Certified Cloud Practitioner Complete Video Course (Free)](https://youtu.be/-FtcnssIpzQ)
 
 ACloudGuru courses (paid)
+- [A Cloud Guru’s AWS Certification Guide PDF](https://go.acloudguru.com/rs/194-UHP-609/images/Cert-Guide-AWS-2020.pdf)
 - [AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
 - [AWS Certified Cloud Practitioner (CLF-C01)](https://acloud.guru/overview/aws--certified-cloud-practitioner)
 
