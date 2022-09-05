@@ -4,7 +4,7 @@ My wikipedia page
 
 # General life
 
-Just sharing some life experience and advices here
+Just sharing some life experiences and advices here
 
 - [Советы для жизни](https://github.com/alfredorefana/wiki/blob/main/general/Life-advices.md)
 

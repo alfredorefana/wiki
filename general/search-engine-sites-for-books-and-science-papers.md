@@ -1,6 +1,6 @@
 # Search engine for science papers, books
 
-As most of results from giant search engines, especially Google, it is always good and in smart way of doing online search. 
+As most of results from giant search engines, are filtered geopgraphically, topic wide, especially in Google search, it is always good to do a search approach differently. 
 
 Here below are websites that can be used to search for specific books, scientific papers, journals, etc.
 

@@ -8,13 +8,13 @@
 2. Backup and restore your Whatsapp data to/from online backup. 
 
 
-I do not really like sending my data online, so I prefer to do an offline transfer. I know, kinda "Old-School", but yeah, it's a better way to avoid data loss and breach. And in addition, I use different Google account on both phones. 
+I do not really like sending my data online, so I prefer to do an offline transfer. I know, kinda "Old-School", but yeah, it's a better way to avoid loss and breach of your personal data. And in addition, I use different Google account on both phones. 
 
 
 ## Few steps to follow doing the offline transfer 
 
 1. On the old phone:
-    - Make a backup of of your Whatsapp data
+    - Make a backup of your Whatsapp data
     - Connect your smartphone to the PC using a USB cable.
     - Copy somewhere the Whatsapp files from: >> Internal storage >> Android >> media >> com.whatsapp >> 
 

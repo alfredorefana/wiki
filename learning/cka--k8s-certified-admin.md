@@ -1,6 +1,6 @@
 # Certified Kubernetes Administrator (CKA)
 
-THis is how I prepared to pass the CKA exam.
+In this page, I share how I prepared to pass the CKA exam.
 
 
 ## My Comprehensive List of Study Resources
