@@ -1,5 +1,5 @@
 # wiki
-My wikipedia page
+My wiki page
 
 
 # General life

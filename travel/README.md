@@ -1,6 +1,6 @@
 # Travel around the World
 
-In here, I'll just share some of interesting place where I leaed and visitted personnally 
+In here, I'll just share some of interesting place where I lived and visitted personnally 
 
 ## EMEA
    - Germany
