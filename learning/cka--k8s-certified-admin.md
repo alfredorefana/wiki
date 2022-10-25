@@ -15,4 +15,12 @@ In this page, I share how I prepared to pass the CKA exam.
 
 - [Certified Kubernetes Administrator (CKA), ACloudGuru course](https://acloudguru.com/course/certified-kubernetes-administrator-cka)
 
+    - Very good course
+    - Well organized in term of presentation and explanation
+    - they offer playground, and you don't need to think of how to create your cluster for each lab
+    - Lab
+    - Unfortunately, the course's contents are not up-to-date to the CKA curricilum 
+
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+
+    - Up-to-date with the CKA cirrucilum
