@@ -45,6 +45,8 @@ Just sharing some life experiences and advices here.
 
 - [Job portals](https://github.com/alfredorefana/wiki/blob/main/work/Job-portals.md)
 
+- [My path to EU BlueCard ](https://github.com/alfredorefana/wiki/blob/main/work/Path-to-EU-BlueCard.md)
+
 
 ## In Russian
 
