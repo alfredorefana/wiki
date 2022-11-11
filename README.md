@@ -20,6 +20,8 @@ Just sharing some life experiences and advices here.
 
 - [Советы для жизни](https://github.com/alfredorefana/wiki/blob/main/general/Life-advices.md)
 
+- [Deutsche Bahn мне вернули 25% стоимости билета](https://github.com/alfredorefana/wiki/blob/main/general/deutsche-bahn-passenger-rights.md)
+
 
 # Learning
 
