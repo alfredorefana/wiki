@@ -2,7 +2,7 @@
 My wiki page
 
 
-# General life
+# General life | Fiainana ankapobeny | La vie en général
 
 Just sharing some life experiences and advices here.
 
@@ -23,7 +23,8 @@ Just sharing some life experiences and advices here.
 - [Deutsche Bahn мне вернули 25% стоимости билета](https://github.com/alfredorefana/wiki/blob/main/general/deutsche-bahn-passenger-rights.md)
 
 
-# Learning
+
+# Learning | Fianarana | L' étude
 
 - [AWS Certified Cloud Practitioner](https://github.com/alfredorefana/wiki/blob/main/learning/aws-cloud-parctitioner.md)
 
@@ -31,7 +32,7 @@ Just sharing some life experiences and advices here.
 
 
 
-# Work
+# Work | Asa | Travail
 
 ## In malagasy 
 
@@ -45,7 +46,6 @@ Just sharing some life experiences and advices here.
 - [Job portals](https://github.com/alfredorefana/wiki/blob/main/work/Job-portals.md)
 
 
-
 ## In Russian
 
 - [Разрешение на работу иностранным студентам в России](https://github.com/alfredorefana/wiki/blob/main/work/Work-permit-for-students-in-Russia.md)
@@ -53,7 +53,8 @@ Just sharing some life experiences and advices here.
 - [Голубая Карта Евросоюза (EU Blue Card)](https://github.com/alfredorefana/wiki/blob/main/work/EU-Blue-Card-Russian-Version.md)
 
 
-# Travel
+
+# Travel | Fitsangatsanganana | Voyage 
 
 ## Madagascar
 
