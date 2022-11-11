@@ -1,5 +1,12 @@
-# wiki
-My wiki page
+# My wiki page
+
+- [General life | Fiainana ankapobeny | La vie en général](https://github.com/alfredorefana/wiki#general-life--fiainana-ankapobeny--la-vie-en-g%C3%A9n%C3%A9ral)
+
+- [Learning | Fianarana | L' étude](https://github.com/alfredorefana/wiki#learning--fianarana--l-%C3%A9tude)
+
+- [Work | Asa | Travail](https://github.com/alfredorefana/wiki#work--asa--travail)
+
+- [Travel | Fitsangatsanganana | Voyage ](https://github.com/alfredorefana/wiki#travel--fitsangatsanganana--voyage)
 
 
 # General life | Fiainana ankapobeny | La vie en général
