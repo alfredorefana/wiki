@@ -31,7 +31,10 @@ Just sharing some life experiences and advices here.
 
 
 
-# Learning | Fianarana | L' étude
+# Learning | Fianarana | L'étude
+
+"You have to learn about the world if you are going to live in it."
+
 
 - [Adventure in learning German language](https://github.com/alfredorefana/wiki/blob/main/learning/german-language.md)
 
