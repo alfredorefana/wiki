@@ -46,7 +46,7 @@ Just sharing some life experiences and advices here.
 
 # Work | Asa | Travail
 
-## In malagasy 
+## In Malagasy 
 
 - [Fitadiavana asa any Alemana](https://github.com/alfredorefana/wiki/blob/main/work/Fitadiavana-asa-any-Alemana.md)
 
