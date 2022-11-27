@@ -3,28 +3,30 @@
 The Internet offers a large number of job portals. Unfortunately, you can not find a complete overview of all current vacancies in one single website. That is why it is worth taking a look at various job databases. Here you will find a selection of job portals that I used during my job hunting before and after graduation. I hope that the list below will help you with your search.
 
 
+## Steps
 
-Create an account
+- Create an account
 
-Update your profile 
+- Update your profile 
 
-Post your resume 
+- Post your resume 
 
-Search jobs 
+- Search jobs 
 
-Apply 
+- Apply 
 
-Follow up
+- Follow up
 
-[Repeat]
+- [Repeat]
 
 
+## Job portals
 
-https://www.linkedin.com/in/ndremaninazafy/
+- [LinkedIn](https://www.linkedin.com/in/ndremaninazafy)
 
-https://www.xing.com/ >> LinkedIn version in Germany
+- [Xing -- a Version of LinkedIn in Germany](https://www.xing.com//)
 
-https://tu-ilmenau.jobteaser.com/en/
+- [Career Center, JobTeaser @ TU Ilmenau](https://tu-ilmenau.jobteaser.com/en/)
 
 https://www.glassdoor.de/Job/index.htm
 
