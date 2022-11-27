@@ -20,7 +20,9 @@ The Internet offers a large number of job portals. Unfortunately, you can not fi
 - [Repeat]
 
 
-## Job portals
+## Portals
+
+### For job searching 
 
 - [LinkedIn](https://www.linkedin.com/in/ndremaninazafy)
 
@@ -28,19 +30,19 @@ The Internet offers a large number of job portals. Unfortunately, you can not fi
 
 - [Career Center, JobTeaser @ TU Ilmenau](https://tu-ilmenau.jobteaser.com/en/)
 
-https://www.glassdoor.de/Job/index.htm
+- [Glassdoor](https://www.glassdoor.de/Job/index.htm)
 
-https://www.make-it-in-germany.com/en/jobs/job-listings
+- [Job listings @ Make-it-in-Germany](https://www.make-it-in-germany.com/en/jobs/job-listings)
 
-https://ec.europa.eu/growth/tools-databases/regprof/index.cfm?action=homepage
+- [EU Commission Page for professional](https://ec.europa.eu/growth/tools-databases/regprof/index.cfm?action=homepage)
 
-https://careers.avanade.com/
+- [Avanade's career portat](https://careers.avanade.com/)
 
-https://jobs.cisco.com/
+- [Cisco's career portal](https://jobs.cisco.com/)
 
-https://careers.db.com/students-graduates/graduate-programme/
+- [Deutsche Bank AG Graduate Programme](https://careers.db.com/students-graduates/graduate-programme/)
 
-https://www.europelanguagejobs.com/jobs-in-Germany
+- [Europe Language Jobs](https://www.europelanguagejobs.com/jobs-in-Germany)
 
 https://electrolux.csod.com/client/electrolux/default.aspx
 
@@ -86,9 +88,7 @@ https://www.dynatrace.com/company/careers/
 
 
 
-Stellenbörsen / Job portals
-
-Praktikum / Internship
+### Praktikum / Internship
 
 https://www.arbeitsagentur.de/ 
 
@@ -134,7 +134,7 @@ www.campusanzeigen.net
 
 
 
-Absolventen / Young Professionals / Traineeships
+### Absolventen / Young Professionals / Traineeships
 
 www.jobboerse.arbeitsagentur.de  > Looking for „Internship/Trainee“
 
