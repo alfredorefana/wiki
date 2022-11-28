@@ -82,7 +82,7 @@ sudo pacman -S archlinux-keyring
 3. QEMU and dependencies Installation
 
 ```
-sudo pacman -S qemu qemu-arch-extra ovmf bridge-utils dnsmasq vde2 openbsd-netcat ebtables iptables libvirt
+sudo pacman -S qemu-desktop qemu-arch-extra ovmf bridge-utils dnsmasq vde2 openbsd-netcat ebtables iptables libvirt
 ```
 
 Below are essential packages you must know:
@@ -137,3 +137,35 @@ sudo systemctl start libvirtd.service
 ```
 sudo usermod -a -G libvirt $USER
 ```
+
+
+## Configure the KVM
+
+Open the ```/etc/libvirt/libvirtd.conf``` for editing
+
+```
+sudo nano -cl /etc/libvirt/libvirtd.conf
+```
+
+Here are the Lines to Edit:
+
+1. Uncomment the line 85 or so:
+```
+unix_sock_group = "libvirt"
+```
+
+2. Uncomment the line 108 or so:
+```
+unix_sock_rw_perms = "0770" 
+```
+
+Make sure to save the file before you exit.
+
+
+## Creating an New Network Bridge for VM
+
+A new network bridge is needed allow a separate IP subnet for Guest OS’s in VM.
+
+
+
+## Testing
