@@ -162,10 +162,100 @@ unix_sock_rw_perms = "0770"
 Make sure to save the file before you exit.
 
 
+##  Verify QEMU/KVM Installation with virt-manager
+
+Now open the application "virt-manager" from your application menu.
+
+1. Click the menu "Edit -> Connection Details" on the virt-manager application.
+
+2. On the tab "Overview" you will see the virt-manager will automatically connect to "qemu:///system".
+
+3. Move to the tabs "Virtual Networks" and you will see the "default" network configuration.
+```
+- Interface: virbr0
+- Auto start at boot: yes
+- IP address: 192.168.122.0/24
+- Range DHCP IP address: 192.168.122.2 - 192.168.122.254
+- Type network: NAT
+```
+
+4. Now move to the tab "Storage",  and you will see the "default" pool storage configuration.
+```
+- Type: Filesystem directory
+- Size: Depends on your disk
+- Location: /var/lib/libvirt/images
+- Auto start at boot: yes
+```
+All virtual machine images will be available on this default storage, the directory ```/var/lib/libvirt/images```.
+
+
+## Create new pool storage for ISO image files
+
+Next, click the button "+" to create new pool storage for ISO image files. All ISO files operating systems will be available at this pool.
+
+Follow storage configration as below:
+
+```
+Name: ISO
+Type: dir: Filesystem Directory
+Target Path: /path/directory/to/your/iso/
+```
+Click the "Finish" button to complete the process. After that, you are ready to create new virtual machines.
+
+
 ## Creating an New Network Bridge for VM
 
-A new network bridge is needed allow a separate IP subnet for Guest OS’s in VM.
+A new network bridge is needed to allow a separate IP subnet for Guest OS’s in VM.
 
 
+1. Create a new file like bridged-network.xml:
+```
+nano -cl /tmp/bridged-network.xml
+```
+
+2. Add the following detals in the file 
+```
+<network>
+    <name>bridged-network</name>
+    <forward mode="bridge" />
+    <bridge name="br0" />
+</network>
+```
+
+2. Register the Bridge Network
+
+Once the file is ready we pass its position as argument to the net-define virsh subcommand:
+```
+sudo virsh net-define /tmp/bridged-network.xml
+```
+Now we have the network registered in the ```libvirtd```.
+
+
+3. To activate the new network and make so that it is auto-started, we should run:
+```
+sudo virsh net-start bridged-network
+sudo virsh net-autostart bridged-network
+```
+
+Note: Permanently enabling this network would take resources. Hence the start command must be given every time before starting virt-manager.
+```
+sudo virsh net-start br0
+```
+
+We can verify the network has been activated by running the virsh net-list
+command:
+
+```
+sudo virsh net-list
+```
+Output
+```
+ Name              State    Autostart   Persistent
+----------------------------------------------------
+ bridged-network   active   yes         yes
+ default           active   yes         yes
+```
 
 ## Testing
+
+Create a virtual machine
