@@ -71,8 +71,8 @@ Just sharing some life experiences and advices here.
 # Travel | Fitsangatsanganana | Voyage 
 
 
-### [Germany](https://github.com/alfredorefana/wiki/tree/main/travel#germany)
+#### [Germany](https://github.com/alfredorefana/wiki/tree/main/travel#germany)
 
-### [Madagascar](https://github.com/alfredorefana/wiki/tree/main/travel#madagascar)
+#### [Madagascar](https://github.com/alfredorefana/wiki/tree/main/travel#madagascar)
 
-### [Switcherland](https://github.com/alfredorefana/wiki/tree/main/travel#switcherland)
+#### [Switcherland](https://github.com/alfredorefana/wiki/tree/main/travel#switcherland)
