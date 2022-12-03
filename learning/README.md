@@ -4,7 +4,6 @@
 
 
 ## Certification 
----
 
 - [AWS Certified Cloud Practitioner](https://github.com/alfredorefana/wiki/blob/main/learning/certification/aws-cloud-parctitioner.md)
 
@@ -12,25 +11,21 @@
 
 
 ## Langue
----
 
 - [Adventure in learning German language](https://github.com/alfredorefana/wiki/blob/main/learning/langue/german-language.md)
 
 
 ## Linux
----
 
 [WIP]
 
 
 ## Network
----
 
 [WIP]
 
 
 ## Security
----
 
 [WIP]
 
