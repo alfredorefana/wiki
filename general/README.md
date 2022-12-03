@@ -7,7 +7,7 @@ Just sharing some life experiences and advices here
 
 - [Search engine for science papers, books](https://github.com/alfredorefana/wiki/blob/main/general/search-engine-sites-for-books-and-science-papers.md)
 
-- [Moving WhatsApp to a new phone: Transferring backups & restoring](https://github.com/alfredorefana/wiki/blob/main/general/search-engine-sites-for-books-and-science-papers.md)
+- [Moving WhatsApp to a new phone: Transferring backups & restoring](https://github.com/alfredorefana/wiki/blob/main/general/moving-whatsapp-data-to-new-phone.md)
 
 - [Life advice](https://github.com/alfredorefana/wiki/blob/main/general/Life-advices.md)
 
