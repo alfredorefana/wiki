@@ -20,6 +20,7 @@ In this page, I share how I prepared to pass the CKA exam.
     - they offer playground, and you don't need to think of how to create your cluster for each lab
     - Lab
     - Unfortunately, the course's contents are not up-to-date to the CKA curricilum 
+    - a bit poor in term exam prep labs
 
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 
