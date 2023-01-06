@@ -23,4 +23,4 @@ In this page, I share how I prepared to pass the CKA exam.
 
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 
-    - Up-to-date with the CKA cirrucilum
+    - More-or-less Up-to-date with the CKA cirrucilum
