@@ -32,6 +32,8 @@ Always hatted questions and too many words stuff.
 
 There is no prior knowledge required, but if you’re good at Docker and Linux, it would help a lot.
 
+### How to study?
+
 I used the following materials and platforms to prepare for the CKA exam:
 
 - [Introduction to Containers and Docker](https://acloudguru.com/course/introduction-to-containers-and-docker)
