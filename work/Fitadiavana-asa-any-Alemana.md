@@ -47,7 +47,10 @@ Procédure de reconnaissance:
 
 ### 𝟭. 𝗥𝗮𝗵𝗮 𝗲𝗸𝗲𝗻'𝗶𝘇𝗮𝗿𝗲𝗼 𝘀𝘆 𝗿𝗮𝗶𝘀𝗶𝗻𝘆 𝗮𝗻𝘆 𝗻𝘆 𝗺𝗮𝗿𝗶-𝗽𝗮𝗵𝗮𝗶𝘇𝗮𝗻𝗮 𝗮𝗻𝗮𝗻𝗮𝗻𝗮𝗼 𝗱𝗶𝗮 𝗮𝗳𝗮𝗸𝗮 𝗺𝗶𝘁𝗮𝗱𝘆 𝗮𝘀𝗮 𝗮𝘁𝗼 𝗮𝗺𝗶𝗻'𝗻𝘆 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁𝗼. 
 
-Betsaka dia betsaka ny "platform en ligne" azonao ampiasaina, fa ny sites nampiasaiko tamin'izany fotoana izany dia navoriko sy natambatro ato: https://telegra. ph/Job-search-portals-07-12;
+Betsaka dia betsaka ny "platform en ligne" azonao ampiasaina, fa ny sites nampiasaiko tamin'izany fotoana izany dia navoriko sy natambatro ato: 
+- https://github.com/alfredorefana/wiki/blob/main/work/Job-portals.md 
+- https://telegra.ph/Job-search-portals-07-12;
+
 Aza mametra ny tenanao amin'ireo fotsiny nefa ianao fa hitaro ny fitadiavana, izany hoe mijereva site maro samihafa koa.
 Ampiasao amin'ny tokiny hampiasana azy ny fotoana ato amin'ny interneto fa tsy laozana mijery video sabalango tsy ahazoana tombotsoa ireny.  
 
