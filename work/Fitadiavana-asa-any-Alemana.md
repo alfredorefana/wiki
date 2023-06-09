@@ -33,13 +33,16 @@ Ireto no mba azoko lazaina, ary mino aho fa hanome hevitra ho anao hoe aiza sy a
 
 ### 𝟬. 𝗠𝗶𝗷𝗲𝗿𝘆 𝗵𝗼𝗲 𝗺𝗶𝗳𝗮𝗻𝗱𝗿𝗮𝗶𝗸𝗮 𝘀𝘆 "𝗿𝗲𝗰𝗼𝗻𝗻𝘂" 𝗮𝗻𝘆 𝗔𝗹𝗲𝗺𝗮𝗻𝗮 𝘃𝗲 𝗻𝘆 𝗺𝗮𝗿𝗶-𝗽𝗮𝗵𝗮𝗶𝘇𝗮𝗻𝗮 𝗮𝗻𝗮𝗻𝗮𝗻𝗮𝗼? 
 
-Afaka hamarinina ato izany: https://www.anerkennung-in-deutschland.de/en/interest/finder/profession.
+Azo hamarinina ato izany: 
+- https://www.anerkennung-in-deutschland.de/en/interest/finder/profession.
 
 Raha tsy reconnu, dia maka "information" hoe ahoana sy ahoana ny ahazoana ny reconnaissance na koa equivalence. 
 Ao amin'io tranokala io dia ahazoana fanazavana mahakasika izany na koa eny amin'ny masoivoho. Tsy nananako traikefa ity iray ity, ka ialana tsiny ra tsy misy lazaina betsaka loatra.  
-"Anabin database" izay azo ijerevana ny oniversite nianaranao: https://anabin.kmk.org/anabin.html.
+"Anabin database" izay azo ijerevana ny oniversite nianaranao: 
+- https://anabin.kmk.org/anabin.html.
 
-Procédure de reconnaissance: https://www.make-it-in-germany.com/fr/travailler-en-allemagne/reconnaissance-diplomes/procedure
+Procédure de reconnaissance: 
+- https://www.make-it-in-germany.com/fr/travailler-en-allemagne/reconnaissance-diplomes/procedure
 
 
 ### 𝟭. 𝗥𝗮𝗵𝗮 𝗲𝗸𝗲𝗻'𝗶𝘇𝗮𝗿𝗲𝗼 𝘀𝘆 𝗿𝗮𝗶𝘀𝗶𝗻𝘆 𝗮𝗻𝘆 𝗻𝘆 𝗺𝗮𝗿𝗶-𝗽𝗮𝗵𝗮𝗶𝘇𝗮𝗻𝗮 𝗮𝗻𝗮𝗻𝗮𝗻𝗮𝗼 𝗱𝗶𝗮 𝗮𝗳𝗮𝗸𝗮 𝗺𝗶𝘁𝗮𝗱𝘆 𝗮𝘀𝗮 𝗮𝘁𝗼 𝗮𝗺𝗶𝗻'𝗻𝘆 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁𝗼. 
@@ -63,7 +66,8 @@ Mba zavatra tena marina sy hainao ary nananao traikefa ihany no haparitaka.
 
 ### 𝟱. 𝗠𝗶𝘁𝗮𝗱𝗶𝗮𝘃𝗮 𝗮𝘀𝗮 𝗶𝘇𝗮𝘆 𝗺𝗲𝘁𝘆 𝗮𝗺𝗶𝗻𝗮𝗼 𝘀𝘆 𝗺𝗶𝗳𝗮𝗻𝗱𝗿𝗮𝗶𝗸𝗮 𝗮𝗺𝗶𝗻'𝗻𝘆 𝗺𝗮𝗿𝗶-𝗽𝗮𝗵𝗮𝗶𝘇𝗮𝗻𝗮 𝗮𝗻𝗮𝗻𝗮𝗼.
 
-Afaka mamaky ato ianao ny amin'ny hevitra samihafa: https://www.make-it-in-germany.com/fr/travailler-en-allemagne/emploi/recherche. 
+Afaka mamaky ato ianao ny amin'ny hevitra samihafa: 
+- https://www.make-it-in-germany.com/fr/travailler-en-allemagne/emploi/recherche. 
 
 ### 6. 𝗠𝗮𝗻𝗱𝗲𝗳𝗮𝘀𝗮 "𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻" 𝗳𝗮𝗿𝗮𝗻'𝗶𝘇𝗮𝘆 𝗯𝗲𝘁𝘀𝗮𝗸𝗮 𝘃𝗶𝘁𝗮𝗻𝗮𝗼, 𝗳𝗮 𝗺𝗯𝗮 𝗳𝗮𝗿𝗮𝗳𝗮𝗵𝗮𝗸𝗲𝗹𝗶𝗻𝘆 𝗲𝗼 𝗮𝗺𝗶𝗻'𝗻𝘆 𝟮 𝗶𝘀𝗮𝗻'𝗮𝗻𝗱𝗿𝗼 𝗲𝗼.
 
@@ -78,7 +82,7 @@ Omany mialoha ny valim-panontaniana izay 90% tsy maintsy hapetrakireo handray an
 
 Afaka mijery ireny tranokala maro isan-karazany ireny hoe inona avy ny fanontaniana tsy maintsy mipetraka. 
 
-Oh: https://www.indeed.com/career-advice/interviewing/how-to-prepare-for-an-interview 
+- Oh: https://www.indeed.com/career-advice/interviewing/how-to-prepare-for-an-interview 
 
 
 ### 𝟵. 𝗙𝗼𝗹𝗹𝗼𝘄-𝘂𝗽: mankasitraka amin'ny "interview" ary mampiseho ny fahavononana amin'izay mety mbola tokony fantarina bebekokoa momba anao.
@@ -92,14 +96,16 @@ Miankina amin'iny ny dingana manaraka, ohatra fotsiny ilaina @ fangatahana visa 
 ### 𝟭𝟭. 𝗠𝗮𝗻𝗮𝗼 "𝗱𝗲𝗺𝗮𝗻𝗱𝗲 𝗱𝗲 𝘃𝗶𝘀𝗮" 𝗮𝗺𝗶𝗻'𝗻𝘆 𝗮𝗹𝗮𝗹𝗮𝗻'𝗻𝘆 𝗮𝘀𝗮. 
 
 Izany hoe "visa hidirana any "en tant que professionel(le)" no tokony ataonao sy ho azonao.
-Fanazava bebe kokoa: https://www.make-it-in-germany.com/fr/visa-sejour/types/travailleurs-qualifies
+Fanazava bebe kokoa: 
+- https://www.make-it-in-germany.com/fr/visa-sejour/types/travailleurs-qualifies
 
 
 ### 𝟭𝟮. 𝗥𝗲𝗵𝗲𝗳𝗮 𝘁𝗼𝗻𝗴𝗮 𝗮𝗻𝘆 𝗶𝗻𝗱𝗿𝗮𝘆 𝗸𝗮 𝗺𝗶𝗹𝗮𝗺𝗶𝗻𝗮 𝗻𝘆 𝘇𝗮𝘃𝗮𝘁𝗿𝗮 𝗿𝗲𝗵𝗲𝘁𝗿𝗮.
 
 Izany hoe efa nanomboka niasa dia ovaina ny "permit de residence".
 Mangataka ny ho an'ny professionel, Ohatra hoe EU BlueCard raha mahafeno fepetra, na koa hafa. 
-Carte bleue européenne: https://www.make-it-in-germany.com/fr/visa-sejour/types/carte-bleue-europeenne
+Carte bleue européenne: 
+- https://www.make-it-in-germany.com/fr/visa-sejour/types/carte-bleue-europeenne
 
 Rehefa tafiditra miasa dia ataovy izay hanajana ny asa sy hampiakatra anao sy ny traikefa anananao. 
 
@@ -114,8 +120,10 @@ Peace!
 
 ## 𝗙𝗮𝗻𝗮𝗺𝗽𝗶𝗻𝘆
 
-Ato feno information ary io agence io no manome information officiel sy manampy be ny amin'ny fidirana miasa any: https://www.make-it-in-germany.com/fr/travailler-en-allemagne/metiers-en-penurie 
+Ato feno information ary io agence io no manome information officiel sy manampy be ny amin'ny fidirana miasa any: 
+- https://www.make-it-in-germany.com/fr/travailler-en-allemagne/metiers-en-penurie 
 
 Ireto checklist ireto kosa dia mino aho fa hanampy be anao: 
-https://www.make-it-in-germany.com/fileadmin/MiiG_Fachkraefte/PDF_s/Fachkraefte/Checklisten/Franzoesisch/2021_01_21_Checkliste_fuer_Drittstaaten_Fachkraeften_FR.pdf
-https://www.make-it-in-germany.com/fileadmin/MiiG_Fachkraefte/Bilder/3_Visum/Visagrafik_FR/200221_Visagrafik_EinBlick_FR_Jobsuche.pdf
+
+- https://www.make-it-in-germany.com/fileadmin/MiiG_Fachkraefte/PDF_s/Fachkraefte/Checklisten/Franzoesisch/2021_01_21_Checkliste_fuer_Drittstaaten_Fachkraeften_FR.pdf
+- https://www.make-it-in-germany.com/fileadmin/MiiG_Fachkraefte/Bilder/3_Visum/Visagrafik_FR/200221_Visagrafik_EinBlick_FR_Jobsuche.pdf
